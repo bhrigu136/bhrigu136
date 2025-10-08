@@ -82,9 +82,9 @@ I love building **data-driven solutions**, **ML models**, and **interactive web 
   > A machine learning model that predicts whether a loan applicant is likely to default based on demographic and financial data.  
   - Implemented **Random Forest Classifier** with hyperparameter tuning  
   - Visualized feature importance & evaluated model using **F1-score**  
-  - Deployed model using **Flask/Streamlit**
+  - Deployed model using **Streamlit**
 
-  **Tech Stack:** Python, Scikit-learn,Numpy Pandas  
+  **Tech Stack:** Python, Scikit-learn, Numpy, Pandas  
   <br>🔗 [View Repository](https://github.com/bhrigu136/Credit-Scoring-using-Random-Forest)
 </details>
 
