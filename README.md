@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <h1>Hi there, I'm Tamanna Bhrigunath 👋</h1>
-  <h3>Aspiring Data Scientist | Python Developer | Problem Solver</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" />
+  <h1>Hi there, I'm <b>Tamanna Bhrigunath 👩‍💻</b></h1>
+  <h3>B.Tech in AI & Data Science | Data Science Enthusiast | Ex-Intern @ Celebal Technologies</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/tamanna-bhrigunath-578b43190">
+    <a href="https://www.linkedin.com/in/tamanna-bhrigunath-578b43190/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/bhrigu136">
-      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://leetcode.com/u/XuMspNFAS8/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
     <a href="mailto:bhrigunathtamanna@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://leetcode.com/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
   </p>
 </div>
@@ -23,104 +23,105 @@
 
 ### 👩‍💻 About Me
 
-I'm an enthusiastic **B.Tech student (2026)** at *Poornima College of Engineering*, passionate about turning data into meaningful insights.  
-I love building **data-driven solutions**, **ML models**, and **interactive web apps** that solve real-world problems.
+I’m a passionate **Data Science & AI student (2026)** from *Poornima College of Engineering, Jaipur*.  
+With a strong foundation in **Python, Machine Learning, and Data Analysis**, I love transforming data into meaningful insights.  
+Previously, I worked as a **Data Science Intern at Celebal Technologies**, where I built and deployed machine learning models for real-world use cases.
 
-- 🌱 Currently mastering **Data Science** & **Machine Learning**  
-- 💡 Skilled in **Python**, **Data Structures**, and **OOP Concepts**  
-- 🚀 Learning **AWS**, **Flask**, and **Streamlit** for deployment  
-- 🎯 Aim: To become a proficient **Data Scientist** and contribute to impactful AI projects  
+- 🧠 Skilled in: `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `SQL`
+- ⚙️ Experienced with: `EDA`, `Feature Engineering`, `Model Training`, `Streamlit`
+- 🌱 Currently learning: Deep Learning & Data Engineering
+- 💬 Ask me about: ML algorithms, data visualization, or project building
+- 🎯 Goal: To create scalable, impactful AI-driven applications
 
 ---
 
-### 🧠 My Tech Stack
+### 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td width="150px" valign="middle"><strong>💻 Languages</strong></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <td width="150px"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width="150px" valign="middle"><strong>📊 Data Science</strong></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+    <td><b>ML & Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width="150px" valign="middle"><strong>🌐 Frameworks</strong></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <td><b>Data Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
-    <td width="150px" valign="middle"><strong>🛠️ Tools & Platforms</strong></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+### ✨ Featured Projects
 
 <details>
-  <summary><strong>💳 Credit Scoring using Random Forest</strong></summary>
+  <summary><b>🧾 Credit Scoring using Random Forest</b></summary>
   
-  > A machine learning model that predicts whether a loan applicant is likely to default based on demographic and financial data.  
-  - Implemented **Random Forest Classifier** with hyperparameter tuning  
-  - Visualized feature importance & evaluated model using **F1-score**  
-  - Deployed model using **Streamlit**
-
-  **Tech Stack:** Python, Scikit-learn, Numpy, Pandas  
-  <br>🔗 [View Repository](https://github.com/bhrigu136/Credit-Scoring-using-Random-Forest)
+  > A machine learning classification model that predicts credit risk using the German Credit dataset.  
+  - Preprocessing, encoding, handling class imbalance, and feature importance visualization.  
+  - Achieved **77% accuracy** and deployed using **Streamlit**.  
+  - 🔗 [Live App](https://credit-scoring-using-random-forest-y4swxuubrbctwhjx6jxwte.streamlit.app/)  
+  - 📂 [Source Code](https://github.com/bhrigu136/Credit-Scoring-using-Random-Forest)
 </details>
 
 <details>
-  <summary><strong>🎬 Movie Recommendation System</strong></summary>
+  <summary><b>🎬 Movie Recommendation System</b></summary>
   
-  > Recommends movies based on user preferences using cosine similarity on vectorized data.  
-  - Built using **content-based filtering**  
-  - Deployed with **Streamlit** for interactive UI  
-
-  **Tech Stack:** Python, Pandas, Streamlit  
-  <br>🔗 [View Repository](https://github.com/bhrigu136/movie-recommender-system)
+  > A content-based recommendation system using cosine similarity and TMDB API integration.  
+  - Recommends top-5 similar movies based on user input.  
+  - Built with **Streamlit** and **Pickle** for fast computation.  
+  - 🔗 [Live App](https://movie-recommender-system-527ydffaajaykatymnjsl8.streamlit.app/)  
+  - 📂 [Source Code](https://github.com/bhrigu136/movie-recommender-system)
 </details>
 
 ---
 
-### 🏆 Certifications & Experience
-- 🎓 **NPTEL:** Data Structures and Algorithms with Java  
-- 💼 **Internships:**  
-  - Icehurt (45 days) — Data Analysis Internship  
-  - Celebal Technologies (60 days) — Data Science Intern  
+### 🏆 Achievements
+
+- 🥈 **Runner-up — AADHAR-XI (2023)**  
+  College-level Technical Project Competition organized by Zircon Club, PCE Jaipur.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhrigu136&show_icons=true&theme=transparent" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhrigu136&theme=transparent" height="160px"/>
+</div>
 
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect!</h3>
-  <p>I'm always open to collaborating on data science projects or discussing tech ideas. Feel free to reach out!</p>
+  <h3>🤝 Let’s Connect</h3>
+  <p>Open to collaborations, internship opportunities, and innovative AI/ML projects.</p>
   <p>
-    <a href="https://www.linkedin.com/in/tamanna-bhrigunath-578b43190">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/tamanna-bhrigunath-578b43190/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:bhrigunathtamanna@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/bhrigu136">
-      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
 </div>
