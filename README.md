@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hey there, I'm Tamanna Bhrigunath👋
+# Hey there, I'm Tamanna Bhrigunath 👋
 
-**AI & Data Science student · Backend Developer · Data Science Enthusiast**
+**AI & Data Science Graduate · Backend & Machine Learning Engineer**
 
-*Final year B.Tech student from Jaipur who likes building things that actually work —*
-*from machine learning models to full-stack web apps with real users.*
+*B.Tech Graduate in AI & Data Science (2022–2026) from Poornima College of Engineering, Jaipur.*
+*I enjoy building intelligent predictive models, machine learning systems, and robust backend architectures.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamanna-bhrigunath-578b43190)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-website-sroy.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-fawn-xi-83.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhrigunathtamanna@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhrigu136)
 
@@ -18,12 +18,12 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Final year **B.Tech in AI & Data Science** at Poornima College of Engineering, Jaipur (2022–2026)
-- 💼 Currently a **Software Engineering Intern at Nessco** — building ERP modules (attendance, face verification, payroll) that real employees use every day
-- 🏆 **Data Science Intern at Celebal Technologies** (Jun–Aug 2025) — built and deployed ML models for house price prediction and credit risk classification
-- 🥈 **Runner-up** at AADHAR-XI Technical Project Competition (2023), Poornima College
-- 🌱 Right now I'm getting deeper into system design, LLM APIs, GenAI, and building things that handle real-world messiness
-- 📬 Always open to interesting conversations — reach me at **bhrigunathtamanna@gmail.com**
+- 🎓 **B.Tech Graduate in AI & Data Science** from Poornima College of Engineering, Jaipur (Batch of 2022–2026) — college successfully completed!
+- 💼 Currently a **Software Engineering Intern at Nessco** — building production ERP modules (attendance tracking, face biometrics, payroll engine).
+- 🏆 **Data Science Intern at Celebal Technologies** (Jun–Aug 2025) — built end-to-end ML pipelines for price prediction and credit risk analysis.
+- 🥈 **Runner-up** at AADHAR-XI Technical Project Competition (2023), Poornima College.
+- 🌱 Getting deeper into advanced system design, scalable ML pipelines, GenAI and LLM APIs.
+- 📬 Always open to interesting conversations or full-time opportunities — reach me at **bhrigunathtamanna@gmail.com**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ## 🚀 Projects I'm Proud Of
 
-### 🐝 [HiveFlow](https://github.com/bhrigu136/hiveflow) — Collaborative Task Manager
-> Started as my personal to-do list. Kept adding to it until it could handle teams too.
+### 💳 [Credit Scoring System](https://github.com/bhrigu136/Credit-Scoring-using-Random-Forest)
+> Predicts loan default risk — optimized for precision-recall to manage severe class imbalance.
 
-A full-stack team workspace with organizations, Kanban boards, Google Calendar sync, notifications, and a forgot-password OTP flow. No frontend framework — just Flask, plain JavaScript, and hand-written CSS. Deployed on Render with PostgreSQL in production.
+Built on the German Credit dataset. Handled class imbalance using resampling, then evaluated with precision-recall and F1-score rather than default accuracy. Achieved ~80% accuracy/score using Random Forest. Deployed as an interactive Streamlit app.
 
-`Flask` `SQLAlchemy` `OAuth 2.0` `Google Calendar API` `PostgreSQL` `Flask-Login` `Gunicorn`
+`Python` `Random Forest` `scikit-learn` `Imbalanced Data` `Joblib` `Streamlit`
 
-🔗 **Live:** [hiveflow-nadp.onrender.com](https://hiveflow-nadp.onrender.com)
+🔗 **Live App:** [https://credit-scoring-using-random-forest-y4swxuubrbctwhjx6jxwte.streamlit.app/](https://credit-scoring-using-random-forest-y4swxuubrbctwhjx6jxwte.streamlit.app/)
 
 ---
 
@@ -78,43 +78,44 @@ Combines genres, cast, director, and overview into a single feature column, vect
 
 `Python` `scikit-learn` `CountVectorizer` `Cosine Similarity` `TMDB API` `Streamlit` `Pickle`
 
-🔗 **Live:** [Try it on Streamlit](https://movie-recommender-system-527ydffaajaykatymnjsl8.streamlit.app/)
-
----
-
-### 💳 [Credit Scoring System](https://github.com/bhrigu136/Credit-Scoring-using-Random-Forest)
-> Predicts loan default risk — accuracy wasn't the right metric, so I didn't use it.
-
-Built on the German Credit dataset. The main challenge was class imbalance — handled with resampling, then evaluated using precision-recall and F1-score. Achieved ~80% with Random Forest. Deployed as an interactive Streamlit app.
-
-`Python` `Random Forest` `scikit-learn` `Imbalanced Data` `Joblib` `Streamlit`
+🔗 **Live App:** [https://movie-recommender-system-527ydffaajaykatymnjsl8.streamlit.app/](https://movie-recommender-system-527ydffaajaykatymnjsl8.streamlit.app/)
 
 ---
 
 ### 🏠 [House Price Prediction](https://github.com/bhrigu136/House-Price-Prediction)
-> Three models, one dataset — which one actually generalizes?
+> Side-by-side evaluation of three ML models to assess unseen data generalization.
 
-Compared Linear Regression, Random Forest, and SVM side-by-side using cross-validation. The point wasn't just to get good training numbers but to see which model holds up on unseen data. Built during my internship at Celebal Technologies.
+Compared Linear Regression, Random Forest, and SVM side-by-side using cross-validation. Focuses on testing generalizability beyond training performance. Built during my internship at Celebal Technologies.
 
 `Python` `Linear Regression` `Random Forest` `SVM` `Cross-Validation` `scikit-learn` `Streamlit`
 
+🔗 **Live App:** [https://house-price-prediction-dzypzeofxzpdrl7wtp8ies.streamlit.app/](https://house-price-prediction-dzypzeofxzpdrl7wtp8ies.streamlit.app/)
+
 ---
 
-## 📊 GitHub Stats
+### 🐝 [HiveFlow](https://github.com/bhrigu136/hiveflow) — Collaborative Task Manager
+> Full-featured team workspace with organizations, Kanban boards, and external integrations.
 
-<div align="center">
+A robust full-stack project with organizations, task boards, real-time alerts, Google Calendar sync, CSV export, and forgot-password OTP flows. Deployed on Render with PostgreSQL.
 
-![Tamanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhrigu136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+`Flask` `SQLAlchemy` `OAuth 2.0` `Google Calendar API` `PostgreSQL` `Flask-Login` `Gunicorn`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhrigu136&layout=compact&theme=tokyonight&hide_border=true)
+🔗 **Live Demo:** [https://hiveflow-nadp.onrender.com](https://hiveflow-nadp.onrender.com)
 
-</div>
+---
+
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhrigu136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tamanna's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrigu136&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
 
 ---
 
 ## 🏢 Current Work — Nessco ERP (Internship)
 
-Right now I'm working on an ERP system at Nessco that handles HR workflows for a real organization. The stack is **Next.js 15, Prisma, PostgreSQL**. I've contributed to three main modules:
+Right now I'm working on a production-level ERP system at Nessco that handles HR workflows. The stack is **Next.js 15, Prisma, PostgreSQL**:
 
 - **Attendance** — check-in/check-out with geofencing, IP whitelisting, shift overrides, overtime opt-in, and auto-checkout. Built to be idempotent and race-safe.
 - **Face Verification** — browser-side biometrics using face-api.js. A 128-float "fingerprint" is computed in the browser and matched server-side; raw photo features never leave the device.
