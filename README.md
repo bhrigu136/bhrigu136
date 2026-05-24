@@ -14,6 +14,9 @@
 
 </div>
 
+## 📄 Resume
+
+[View My Resume](./Tamanna_B.Resume.pdf)
 ---
 
 ## 🙋‍♀️ About Me
